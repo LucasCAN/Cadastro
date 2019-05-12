@@ -80,7 +80,7 @@ public class ListarPessoasActivity extends AppCompatActivity {
 
     }
 
-        public void procurar(String nome){
+    public void procurar(String nome){
         pessoasFiltro.clear();
         for(Pessoa p : pessoas){
             if(p.getNome().toLowerCase().contains(nome.toLowerCase())){

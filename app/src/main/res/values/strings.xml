@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Cadastro</string>
+    <string name="salvar">Salvar</string>
+    <string-array name="Opções">
+        <item></item>
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+
 </resources>
